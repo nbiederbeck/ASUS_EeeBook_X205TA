@@ -37,7 +37,7 @@ Sleep/Suspend is currently not supported.
 
 ### Wi-Fi
 The Wi-Fi card needs a driver and firmware. I will provide the steps here,
-for more information visit the [Debian Wiki][installingdebianon].
+for more information visit the [Debian Wiki][1].
 In the directory [files](files) are two files.
 Now you have two options:
 1. During install when asked for drivers on USB stick, press `Alt-F2` to change to
@@ -54,7 +54,7 @@ cp brcmfmac43340-sdio.bin /lib/firmware/brcm/
 
 ## Links
 The Debian wiki describes perfectly well what steps one has to do to install Debian 9 on the EeeBook:
-- [InstallingDebianOn/Asus/X205TA][installingdebianon]
+- [InstallingDebianOn/Asus/X205TA][1]
 
 
-[installingdebianon]: https://wiki.debian.org/InstallingDebianOn/Asus/X205TA
+[1]: https://wiki.debian.org/InstallingDebianOn/Asus/X205TA
