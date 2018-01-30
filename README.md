@@ -5,26 +5,26 @@ Compilation of scripts and files and links to install linux on ASUS EeeBook X205
 The X205TA is a mixed mode EFI system (64-bit CPU with 32-bit EFI).
 Therefore not every Linux distro will boot without problems:
 
-| Tried  | Booting? |
-| ------ | --------:|
-| Debian | yes      |
-| Fedora | yes      |
-| Arch   | no       |
-| Ubuntu | no       |
+| Distro           | Booting? |
+| ------           | -------: |
+| Debian 9         | yes      |
+| Fedora WS 27     | yes      |
+| Arch 201801      | no       |
+| Ubuntu LTS 16.04 | no       |
 
 Some components dont work out of the box and need a fix, others don't work at all.
 
 | Component             | Status      |
-| --------------------- | -----------:|
+| ---------             | -----:      |
 | Audio                 | Not Working |
-| Battery               |     Working |
-| Bluetooth             |     Working |
-| External Screen       |     Working |
+| Battery               | Working     |
+| Bluetooth             | Working     |
+| External Screen       | Working     |
 | Hibernation           | Not Working |
-| (Multitouch) Touchpad |     Working |
-| MicroSD Card Reader   |     Working |
+| (Multitouch) Touchpad | Working     |
+| MicroSD Card Reader   | Working     |
 | Sleep/Suspend         | Not Working |
-| Wi-Fi                 |         Fix |
+| Wi-Fi                 | Fix         |
 
 ### Audio
 Audio is currently not supported.
