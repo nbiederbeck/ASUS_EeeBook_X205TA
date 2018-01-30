@@ -1,8 +1,8 @@
-# ASUS_EeeBook_X205TA
+# ASUS EeeBook X205TA
 Compilation of scripts and files and links to install linux on ASUS EeeBook X205TA.
 
 ## Installation Guide
-The ASUS EeeBook X205TA is a mixed mode EFI system (64-bit CPU with 32-bit EFI).
+The X205TA is a mixed mode EFI system (64-bit CPU with 32-bit EFI).
 Therefore not every Linux distro will boot without problems:
 
 | Tried  | Booting? |
