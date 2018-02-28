@@ -9,7 +9,7 @@ Therefore not every Linux distro will boot without problems:
 | ------           | -------: |
 | Debian 9         | yes      |
 | Fedora WS 27     | yes      |
-| Arch 201801      | no       |
+| Arch 201801      | yes      |
 | Ubuntu LTS 16.04 | no       |
 
 Some components dont work out of the box and need a fix, others don't work at all.
